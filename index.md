@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Prototype link 
 
-You can use the [editor on GitHub](https://github.com/liuamyj/SettleIn/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Link to Figma prototype](https://www.figma.com/proto/XvnP7g4rjAxVAT1U7igSQG/CS377E-Redesign-2?scaling=contain&node-id=86%3A3) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tasks
 
-### Markdown
+**Simple** - Complete onboarding process for community-based support. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Medium** - Find and join a chat session that is right for you.
+- Subtasks: 
+  - Preview the chat session. 
+  - Toggle whether or not your camera is on. 
 
-```markdown
-Syntax highlighted code block
+**Complex** - Find and join a counseling session that is right for you.
 
-# Header 1
-## Header 2
-### Header 3
+- Subtasks: 
+  - Preview the counseling session. 
+  - Toggle whether or not your camera is on. 
 
-- Bulleted
-- List
+## Special instructions / limitations
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuamyj/SettleIn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- In onboarding when selecting what you have been experiencing, choose Loneliness. 
+- In choosing a counseling session, pick Dealing with Social Isolation. 
