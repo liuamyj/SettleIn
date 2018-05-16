@@ -1,3 +1,5 @@
+SettleIn provides online, community based mental health support for immigrants.
+
 ## Prototype link 
 
 [Link to Figma prototype](https://www.figma.com/proto/XvnP7g4rjAxVAT1U7igSQG/CS377E-Redesign-2?scaling=contain&node-id=86%3A3) 
